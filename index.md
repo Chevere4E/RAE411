@@ -4,17 +4,11 @@ All codes and projects that I did in Telecommunication Software Course
 
 ### Homework 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+mixCode in Jupyter
 
 ```markdown
-Syntax highlighted code block
+# [PDF - HM1](https://github.com/Chevere4E/HW1)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
 
 1. Numbered
 2. List
@@ -24,7 +18,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
