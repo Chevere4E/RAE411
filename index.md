@@ -4,21 +4,23 @@ All codes and projects that I did in Telecommunication Software Course
 
 ### Homework 1
 
-mixCode in Jupyter
-#[PDF - HM1](https://github.com/Chevere4E/HW1)
-[PDF - HM1](https://github.com/Chevere4E/HW1)
+mixCode in Jupyter [PDF - HM1](https://github.com/Chevere4E/HW1)
 
+### Middle Term Exam
 
-```markdown
-```
+Exam did in Jupyter and LaTex [PDF - Exam](https://github.com/Chevere4E/MiddleTermExam)
 
+### MicroProject 1
 
+First u-Project did in Jupyter and LaTex [Codes - uP1](https://github.com/Chevere4E/MicroProject1)
 
+### Week 13
 
+Use of lenguage R and Python to graph [Codes - W13](https://github.com/Chevere4E/Week14)
 
-### Jekyll Themes
+### Week 14
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chevere4E/RAE411/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Code in Java to connect two computers [Codes - W14](https://github.com/Chevere4E/411-W14)
 
 ### Support or Contact
 
