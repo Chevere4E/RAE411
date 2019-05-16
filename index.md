@@ -7,7 +7,7 @@ All codes and projects that I did in Telecommunication Software Course
 mixCode in Jupyter
 
 ```markdown
-# [PDF - HM1](https://github.com/Chevere4E/HW1)
+[PDF - HM1](https://github.com/Chevere4E/HW1)
 
 
 1. Numbered
