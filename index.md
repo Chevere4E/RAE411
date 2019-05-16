@@ -1,6 +1,6 @@
 ## Course Report
 
-All codes and projects that I did in Telecommunication Software Course
+All codes and projects that I, **Eduardo David Munoz Gonzalez**, did in Telecommunication Software Course
 
 ### Homework 1
 
