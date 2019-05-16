@@ -5,18 +5,15 @@ All codes and projects that I did in Telecommunication Software Course
 ### Homework 1
 
 mixCode in Jupyter
-
-```markdown
+#[PDF - HM1](https://github.com/Chevere4E/HW1)
 [PDF - HM1](https://github.com/Chevere4E/HW1)
 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```markdown
 ```
+
+
+
 
 
 ### Jekyll Themes
