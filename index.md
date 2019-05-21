@@ -6,7 +6,7 @@ All codes and projects that I, **Eduardo David Munoz Gonzalez**, did in Telecomm
 
 mixCode in Jupyter [PDF - HM1](https://github.com/Chevere4E/HW1)
 
-## PING Statistics
+### PING Statistics
 
 Ping Statistics in Matlab and bash/awk [Codes - Ping](https://github.com/Chevere4E/PingStat)
 
