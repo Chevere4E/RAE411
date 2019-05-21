@@ -30,6 +30,9 @@ Code in Java to connect two computers [Codes - W14](https://github.com/Chevere4E
 
 I realiazed this page to resume all work did in this course [Page](https://chevere4e.github.io/RAE411/)
 
+### Week 16
+Connection between 2 computers and sending a file [Code - bash](https://github.com/Chevere4E/411-w16)
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
