@@ -37,7 +37,7 @@ Connection between 2 computers and sending a file [Code - bash](https://github.c
 ### Finish Courses
 
 I finish 2 courses on DataCamp platfomr as part of the Telecommunications software course
-![Course1](C:\Users\HP\Documents\Superior\8semestre\TelecommunicationSoftware\finishR.JPG
+![Course1](C:\Users\HP\Documents\Superior\8semestre\TelecommunicationSoftware\finishR.JPG)
 
 ![Course2](C:\Users\HP\Documents\Superior\8semestre\TelecommunicationSoftware\finishPyData.JPG)
 
