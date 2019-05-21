@@ -6,6 +6,10 @@ All codes and projects that I, **Eduardo David Munoz Gonzalez**, did in Telecomm
 
 mixCode in Jupyter [PDF - HM1](https://github.com/Chevere4E/HW1)
 
+## PING Statistics
+
+Ping Statistics in Matlab and bash/awk [Codes - Ping](https://github.com/Chevere4E/PingStat)
+
 ### Middle Term Exam
 
 Exam did in Jupyter and LaTex [PDF - Exam](https://github.com/Chevere4E/MiddleTermExam)
