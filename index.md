@@ -31,7 +31,15 @@ Code in Java to connect two computers [Codes - W14](https://github.com/Chevere4E
 I realiazed this page to resume all work did in this course [Page](https://chevere4e.github.io/RAE411/)
 
 ### Week 16
+
 Connection between 2 computers and sending a file [Code - bash](https://github.com/Chevere4E/411-w16)
+
+### Finish Courses
+
+I finish 2 courses on DataCamp platfomr as part of the Telecommunications software course
+![Course1](C:\Users\HP\Documents\Superior\8semestre\TelecommunicationSoftware\finishR.JPG
+
+![Course2](C:\Users\HP\Documents\Superior\8semestre\TelecommunicationSoftware\finishPyData.JPG)
 
 ### Support or Contact
 
